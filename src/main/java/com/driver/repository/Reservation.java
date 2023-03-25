@@ -1,7 +1,6 @@
-package com.driver.model;
+package com.driver.repository;
 
 import javax.persistence.*;
-import java.util.List;
 
 @Entity
 public class Reservation {

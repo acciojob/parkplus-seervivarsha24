@@ -1,4 +1,6 @@
-package com.driver.model;
+package com.driver.repository;
+
+import com.driver.repository.Reservation;
 
 import javax.persistence.*;
 import java.util.ArrayList;

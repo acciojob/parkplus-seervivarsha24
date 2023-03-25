@@ -1,7 +1,9 @@
 package com.driver.services.impl;
 
 import com.driver.model.SpotType;
+import com.driver.repository.ParkingLot;
 import com.driver.repository.ParkingLotRepository;
+import com.driver.repository.Spot;
 import com.driver.repository.SpotRepository;
 import com.driver.services.ParkingLotService;
 import org.springframework.beans.factory.annotation.Autowired;

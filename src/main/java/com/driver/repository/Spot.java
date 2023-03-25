@@ -1,4 +1,8 @@
-package com.driver.model;
+package com.driver.repository;
+
+import com.driver.model.SpotType;
+import com.driver.repository.ParkingLot;
+import com.driver.repository.Reservation;
 
 import javax.persistence.*;
 import java.util.ArrayList;
